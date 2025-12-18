@@ -1,0 +1,31 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "face": "clayium:blocks/chemical_reactor"
+    },
+    "model": "clayium:machine"
+  },
+  "variants": {
+    "tier": {
+      "basic": {
+        "textures": {
+          "base": "clayium:blocks/machinehull_tier4"
+        },
+        "model": "clayium:machine"
+      },
+      "advanced": {
+        "textures": {
+          "base": "clayium:blocks/machinehull_tier5"
+        },
+        "model": "clayium:machine"
+      },
+      "clayium": {
+        "textures": {
+          "base": "clayium:blocks/machinehull_tier8"
+        },
+        "model": "clayium:machine"
+      }
+    }
+  }
+}
