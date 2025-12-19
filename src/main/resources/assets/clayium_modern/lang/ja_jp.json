@@ -1,7 +1,7 @@
 {
   "itemGroup.clayium_modern": "Clayium Modern",
-  "itemGroup.clayium_modern.decorations": "Clayium 装飾ブロック",
-  "itemGroup.clayium_modern.fluid_capsules": "Clayium 液体カプセル",
+  "itemGroup.clayium_modern.decorations": "Clayium Modern 装飾ブロック",
+  "itemGroup.clayium_modern.fluid_capsules": "Clayium Modern 液体カプセル",
 
   "tooltip.clayium_modern.HoldShiftForDetails": "--§f詳細は§lShift§rキー§7--",
 
@@ -818,5 +818,5 @@
   "clayium_modern.config.tier_balance": "Tierバランス設定",
   "clayium_modern.config.mod_integration": "連携レシピ設定",
   "clayium_modern.config.mod_integration.all_toggle": "連携レシピを有効化",
-  "clayium_modern.config.rei": "レシピ設定"
+  "clayium_modern.config.recipe": "レシピ設定"
 }

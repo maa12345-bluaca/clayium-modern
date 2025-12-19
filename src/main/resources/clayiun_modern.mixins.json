@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "insert.your.package.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "HelloMixin",
+    "GoodbyeMixin",
+    "NiceToMeetYouMixin"
+  ]
+}
